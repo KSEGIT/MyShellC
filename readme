@@ -1,0 +1,22 @@
+# README #
+CST2555 – Operating System and Computer Networks Coursework 1 – Operating Systems
+
+### My shell project author ###
+Daniel Kiska 
+
+### Notes ###
+Shell will only work on linux based systems. 
+
+You can use bash-script to run commands from file run it using command on the beginning of the program
+- ./myshell yourBashFile
+
+### Available commands ###
+1. cd <directory> - changes the current default directory to <directory>.
+2. clr - clear screen
+3. dir <directory> - lists the contents of directory <directory>. 
+4. copy <source> <destination> - Copy the <source> folder to <destination>.
+5. echo <text> - displays <text> on the display followed by a new line (remember to put massage in double quotes like "text here").
+6. md <directory> - Create the folder <directory>.
+7. rd <directory> - Remove the folder <directory>.
+8. help - shows all available commands
+9. quit - Quit the shell.
